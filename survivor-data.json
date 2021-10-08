@@ -1,4 +1,126 @@
 {
+  "Pickers": [
+    {
+      "Name": "Gools",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "gools"
+      ]
+    },
+    {
+      "Name": "Dan",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "dan"
+      ]
+    },
+    {
+      "Name": "Beast",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "beast"
+      ]
+    },
+    {
+      "Name": "8",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "8"
+      ]
+    },
+    {
+      "Name": "Urban's Legends",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "urbanslegends"
+      ]
+    },
+    {
+      "Name": "Ronnie Shoemaker",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "ronnieshoemaker"
+      ]
+    },
+    {
+      "Name": "Woody's Right Cross",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "woodysrightcross"
+      ]
+    },
+    {
+      "Name": "Randy Monfredi",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "randymonfredi"
+      ]
+    },
+    {
+      "Name": "Philip",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "philip"
+      ]
+    },
+    {
+      "Name": "Drew",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "drew"
+      ]
+    },
+    {
+      "Name": "Jeff",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "jeff"
+      ]
+    },
+    {
+      "Name": "Zach",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
+      "Picks": [],
+      "AllNames": [
+        "zach"
+      ]
+    }
+  ],
   "Schedule": [
     {
       "WeekNum": 1,
