@@ -1,3 +1,175 @@
 {
-    
+  "Pickers": [
+    {
+      "Name": "Gools",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Dan",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Beast",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "8",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Urban's Legends",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Ronnie Shoemaker",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Woody's Right Cross",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Randy Monfredi",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Philip",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Drew",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Jeff",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    },
+    {
+      "Name": "Zach",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "Picks": []
+    }
+  ],
+  "Schedule": [
+    {
+      "WeekNum": 1,
+      "StartDate": "2021-07-24T03:00:00-04:00",
+      "EndDate": "2021-09-07T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 2,
+      "StartDate": "2021-09-07T03:00:00-04:00",
+      "EndDate": "2021-09-14T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 3,
+      "StartDate": "2021-09-14T03:00:00-04:00",
+      "EndDate": "2021-09-21T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 4,
+      "StartDate": "2021-09-21T03:00:00-04:00",
+      "EndDate": "2021-09-28T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 5,
+      "StartDate": "2021-09-28T03:00:00-04:00",
+      "EndDate": "2021-10-05T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 6,
+      "StartDate": "2021-10-05T03:00:00-04:00",
+      "EndDate": "2021-10-12T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 7,
+      "StartDate": "2021-10-12T03:00:00-04:00",
+      "EndDate": "2021-10-19T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 8,
+      "StartDate": "2021-10-19T03:00:00-04:00",
+      "EndDate": "2021-10-26T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 9,
+      "StartDate": "2021-10-26T03:00:00-04:00",
+      "EndDate": "2021-11-02T02:59:00-04:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 10,
+      "StartDate": "2021-11-02T03:00:00-04:00",
+      "EndDate": "2021-11-09T02:59:00-05:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 11,
+      "StartDate": "2021-11-09T03:00:00-05:00",
+      "EndDate": "2021-11-16T02:59:00-05:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 12,
+      "StartDate": "2021-11-16T03:00:00-05:00",
+      "EndDate": "2021-11-23T02:59:00-05:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 13,
+      "StartDate": "2021-11-23T03:00:00-05:00",
+      "EndDate": "2021-11-30T02:59:00-05:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 14,
+      "StartDate": "2021-11-30T03:00:00-05:00",
+      "EndDate": "2021-12-07T02:59:00-05:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 15,
+      "StartDate": "2021-12-07T03:00:00-05:00",
+      "EndDate": "2021-12-14T02:59:00-05:00",
+      "Games": []
+    },
+    {
+      "WeekNum": 16,
+      "StartDate": "2021-12-14T03:00:00-05:00",
+      "EndDate": "2021-12-21T02:59:00-05:00",
+      "Games": []
+    }
+  ],
+  "UnmappedSelections": []
 }
