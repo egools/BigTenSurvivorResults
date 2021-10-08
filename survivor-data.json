@@ -11,6 +11,13 @@
           "Week": 2,
           "Team": "Purdue",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-16T00:25:35",
+          "Name": "Gools",
+          "Week": 3,
+          "Team": "Rutgers",
+          "Correct": true
         }
       ],
       "AllNames": [
@@ -27,6 +34,13 @@
           "Name": "Dan",
           "Week": 2,
           "Team": "Nebraska",
+          "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-17T11:10:47",
+          "Name": "Dan",
+          "Week": 3,
+          "Team": "Michigan",
           "Correct": true
         }
       ],
@@ -45,6 +59,13 @@
           "Week": 2,
           "Team": "Northwestern",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-18T10:39:42",
+          "Name": "Beast",
+          "Week": 3,
+          "Team": "Rutgers",
+          "Correct": true
         }
       ],
       "AllNames": [
@@ -61,6 +82,13 @@
           "Name": "8",
           "Week": 2,
           "Team": "Northwestern",
+          "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-17T20:59:18",
+          "Name": "8",
+          "Week": 3,
+          "Team": "Michigan",
           "Correct": true
         }
       ],
@@ -96,6 +124,13 @@
           "Week": 2,
           "Team": "Indiana",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-18T10:43:20",
+          "Name": "Ronnie Shoemaker",
+          "Week": 3,
+          "Team": "Rutgers",
+          "Correct": true
         }
       ],
       "AllNames": [
@@ -112,6 +147,13 @@
           "Name": "Woody's Right Cross",
           "Week": 2,
           "Team": "Purdue",
+          "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-18T10:47:53",
+          "Name": "Woodys right cross",
+          "Week": 3,
+          "Team": "Michigan",
           "Correct": true
         }
       ],
@@ -147,6 +189,13 @@
           "Week": 2,
           "Team": "Purdue",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-16T16:10:56",
+          "Name": "Philip",
+          "Week": 3,
+          "Team": "Rutgers",
+          "Correct": true
         }
       ],
       "AllNames": [
@@ -163,6 +212,13 @@
           "Name": "Drew",
           "Week": 2,
           "Team": "Penn State",
+          "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-18T11:39:42",
+          "Name": "Drew",
+          "Week": 3,
+          "Team": "Iowa",
           "Correct": true
         }
       ],
@@ -181,6 +237,13 @@
           "Week": 2,
           "Team": "Northwestern",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-18T10:34:51",
+          "Name": "Jeff",
+          "Week": 3,
+          "Team": "Rutgers",
+          "Correct": true
         }
       ],
       "AllNames": [
@@ -197,6 +260,13 @@
           "Name": "Zach",
           "Week": 2,
           "Team": "Michigan State",
+          "Correct": true
+        },
+        {
+          "PickDateTime": "2021-09-18T01:17:24",
+          "Name": "Zach",
+          "Week": 3,
+          "Team": "Rutgers",
           "Correct": true
         }
       ],
@@ -554,7 +624,151 @@
       "WeekNum": 3,
       "StartDate": "2021-09-14T03:00:00-04:00",
       "EndDate": "2021-09-21T02:59:00-04:00",
-      "Games": []
+      "Games": [
+        {
+          "FullName": "Illinois Fighting Illini",
+          "Location": "Illinois",
+          "Abbreviation": "ILL",
+          "Week": 3,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Maryland",
+          "Score": "17-20",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Maryland Terrapins",
+          "Location": "Maryland",
+          "Abbreviation": "MD",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Illinois",
+          "Score": "20-17",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Nebraska Cornhuskers",
+          "Location": "Nebraska",
+          "Abbreviation": "NEB",
+          "Week": 3,
+          "Winner": false,
+          "HomeTeam": false,
+          "OpponentLocation": "Oklahoma",
+          "Score": "16-23",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Iowa Hawkeyes",
+          "Location": "Iowa",
+          "Abbreviation": "IOWA",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": true,
+          "OpponentLocation": "Kent State",
+          "Score": "30-7",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Indiana Hoosiers",
+          "Location": "Indiana",
+          "Abbreviation": "IU",
+          "Week": 3,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Cincinnati",
+          "Score": "24-38",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Ohio State Buckeyes",
+          "Location": "Ohio State",
+          "Abbreviation": "OSU",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": true,
+          "OpponentLocation": "Tulsa",
+          "Score": "41-20",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Penn State Nittany Lions",
+          "Location": "Penn State",
+          "Abbreviation": "PSU",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": true,
+          "OpponentLocation": "Auburn",
+          "Score": "28-20",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Purdue Boilermakers",
+          "Location": "Purdue",
+          "Abbreviation": "PUR",
+          "Week": 3,
+          "Winner": false,
+          "HomeTeam": false,
+          "OpponentLocation": "Notre Dame",
+          "Score": "13-27",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Michigan State Spartans",
+          "Location": "Michigan State",
+          "Abbreviation": "MSU",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Miami",
+          "Score": "38-17",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Michigan Wolverines",
+          "Location": "Michigan",
+          "Abbreviation": "MICH",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": true,
+          "OpponentLocation": "Northern Illinois",
+          "Score": "63-10",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Minnesota Golden Gophers",
+          "Location": "Minnesota",
+          "Abbreviation": "MINN",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Colorado",
+          "Score": "30-0",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Rutgers Scarlet Knights",
+          "Location": "Rutgers",
+          "Abbreviation": "RUTG",
+          "Week": 3,
+          "Winner": true,
+          "HomeTeam": true,
+          "OpponentLocation": "Delaware",
+          "Score": "45-13",
+          "IsBigTen": true
+        },
+        {
+          "FullName": "Northwestern Wildcats",
+          "Location": "Northwestern",
+          "Abbreviation": "NU",
+          "Week": 3,
+          "Winner": false,
+          "HomeTeam": false,
+          "OpponentLocation": "Duke",
+          "Score": "23-30",
+          "IsBigTen": true
+        }
+      ]
     },
     {
       "WeekNum": 4,
@@ -635,5 +849,13 @@
       "Games": []
     }
   ],
-  "UnmappedSelections": []
+  "UnmappedSelections": [
+    {
+      "PickDateTime": "2021-09-18T11:04:44",
+      "Name": "Urban’s legends",
+      "Week": 3,
+      "Team": "Michigan",
+      "Correct": null
+    }
+  ]
 }
