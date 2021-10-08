@@ -1,0 +1,41 @@
+html {
+    background: linear-gradient(150deg, rgba(0, 6, 10, 0.9), rgba(0, 5, 6, 0.9));
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: "Roboto Mono", monospace;
+    color: white;
+  }
+
+  a {
+      color: rgb(215, 215, 255);
+  }
+
+#picksContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.picker {
+    margin: 8px;
+    margin-bottom: 15px;
+}
+
+.picker-name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.picker-selection {
+    text-align: center;
+    padding: 3px;
+}
+
+.eliminated .picker-name {
+    text-decoration: line-through;
+}
+
+.incorrect-pick {
+    color: red;
+    text-decoration: line-through;
+}
