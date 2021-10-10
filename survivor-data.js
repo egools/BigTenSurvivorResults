@@ -419,7 +419,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Nebraska",
           "Score": "30-22",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -430,7 +431,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Illinois",
           "Score": "22-30",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -441,7 +443,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Ohio State",
           "Score": "31-45",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -452,7 +455,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Minnesota",
           "Score": "45-31",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -463,7 +467,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Michigan State",
           "Score": "21-38",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan State Spartans",
@@ -474,7 +479,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Northwestern",
           "Score": "38-21",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -485,7 +491,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Penn State",
           "Score": "10-16",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -496,7 +503,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Wisconsin",
           "Score": "16-10",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -507,7 +515,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Indiana",
           "Score": "34-6",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -518,7 +527,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Iowa",
           "Score": "6-34",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan Wolverines",
@@ -529,7 +539,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Western Michigan",
           "Score": "47-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -540,7 +551,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Temple",
           "Score": "61-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -551,7 +563,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Fordham",
           "Score": "52-7",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Maryland Terrapins",
@@ -562,7 +575,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "West Virginia",
           "Score": "30-24",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -573,7 +587,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Oregon State",
           "Score": "30-21",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -584,7 +599,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "UTSA",
           "Score": "30-37",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         }
       ]
     },
@@ -602,7 +618,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Oregon",
           "Score": "28-35",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -613,7 +630,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Iowa State",
           "Score": "27-17",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -624,7 +642,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Ball State",
           "Score": "44-13",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -635,7 +654,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Eastern Michigan",
           "Score": "34-7",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -646,7 +666,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Virginia",
           "Score": "14-42",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan State Spartans",
@@ -657,7 +678,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Youngstown State",
           "Score": "42-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -668,7 +690,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Miami (OH)",
           "Score": "31-26",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -679,7 +702,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Indiana State",
           "Score": "24-6",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -690,7 +714,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Syracuse",
           "Score": "17-7",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -701,7 +726,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "UConn",
           "Score": "49-0",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -712,7 +738,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Buffalo",
           "Score": "28-3",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -723,7 +750,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Idaho",
           "Score": "56-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Maryland Terrapins",
@@ -734,7 +762,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Howard",
           "Score": "62-0",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan Wolverines",
@@ -745,7 +774,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Washington",
           "Score": "31-10",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         }
       ]
     },
@@ -763,7 +793,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Maryland",
           "Score": "17-20",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Maryland Terrapins",
@@ -774,7 +805,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Illinois",
           "Score": "20-17",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -785,7 +817,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Oklahoma",
           "Score": "16-23",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -796,7 +829,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Kent State",
           "Score": "30-7",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -807,7 +841,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Cincinnati",
           "Score": "24-38",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -818,7 +853,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Tulsa",
           "Score": "41-20",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -829,7 +865,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Auburn",
           "Score": "28-20",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -840,7 +877,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Notre Dame",
           "Score": "13-27",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan State Spartans",
@@ -851,7 +889,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Miami",
           "Score": "38-17",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan Wolverines",
@@ -862,7 +901,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Northern Illinois",
           "Score": "63-10",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -873,7 +913,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Colorado",
           "Score": "30-0",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -884,7 +925,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Delaware",
           "Score": "45-13",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -895,7 +937,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Duke",
           "Score": "23-30",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         }
       ]
     },
@@ -913,7 +956,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Colorado State",
           "Score": "24-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -924,7 +968,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Villanova",
           "Score": "38-17",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -935,7 +980,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Akron",
           "Score": "59-7",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -946,7 +992,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Notre Dame",
           "Score": "13-41",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan Wolverines",
@@ -957,7 +1004,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Rutgers",
           "Score": "20-13",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -968,7 +1016,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Michigan",
           "Score": "13-20",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan State Spartans",
@@ -979,7 +1028,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Nebraska",
           "Score": "23-20",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -990,7 +1040,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Michigan State",
           "Score": "20-23",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1001,7 +1052,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Bowling Green",
           "Score": "10-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1012,7 +1064,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Ohio",
           "Score": "35-6",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1023,7 +1076,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Illinois",
           "Score": "13-9",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1034,7 +1088,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Purdue",
           "Score": "9-13",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Maryland Terrapins",
@@ -1045,7 +1100,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Kent State",
           "Score": "37-16",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1056,7 +1112,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Western Kentucky",
           "Score": "33-31",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         }
       ]
     },
@@ -1074,7 +1131,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Iowa",
           "Score": "14-51",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -1085,7 +1143,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Maryland",
           "Score": "51-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1096,7 +1155,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Indiana",
           "Score": "24-0",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1107,7 +1167,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Penn State",
           "Score": "0-24",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1118,7 +1179,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Ohio State",
           "Score": "13-52",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -1129,7 +1191,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Rutgers",
           "Score": "52-13",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -1140,7 +1203,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Michigan",
           "Score": "17-38",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan Wolverines",
@@ -1151,7 +1215,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Wisconsin",
           "Score": "38-17",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Michigan State Spartans",
@@ -1162,7 +1227,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Western Kentucky",
           "Score": "48-31",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1173,7 +1239,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Charlotte",
           "Score": "24-14",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1184,7 +1251,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Minnesota",
           "Score": "13-20",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1195,7 +1263,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Purdue",
           "Score": "20-13",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1206,7 +1275,8 @@ const survivorData = {
           "HomeTeam": true,
           "OpponentLocation": "Northwestern",
           "Score": "56-7",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1217,7 +1287,8 @@ const survivorData = {
           "HomeTeam": false,
           "OpponentLocation": "Nebraska",
           "Score": "7-56",
-          "IsBigTen": true
+          "IsBigTen": true,
+"IsCompleted": true
         }
       ]
     },
