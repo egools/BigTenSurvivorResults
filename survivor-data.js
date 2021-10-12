@@ -345,7 +345,7 @@ const survivorData = {
       "Name": "Drew",
       "Eliminated": true,
       "WeekEliminated": 6,
-      "EliminationReason": "Invalid Repeat Pick: Michigan State",
+      "EliminationReason": "Repeat Pick: Michigan State",
       "Picks": [
         {
           "PickDateTime": "2021-09-11T11:53:26",

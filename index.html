@@ -12,14 +12,30 @@
     <link rel="stylesheet" href="styles.css?v=1.0" />
   </head>
   <body>
-    <a href="https://forms.gle/nMw7XcZPBJoXuffT8" target="_blank">Pick Submission Form</a>
-    <div id="picksContainer"></div>
+    <div id="app">
+      <a href="https://forms.gle/nMw7XcZPBJoXuffT8" target="_blank">Pick Submission Form</a>
+      <div id="picksContainer">
+        <div v-for="picker in Pickers" class="picker" v-bind:class="{ eliminated: picker.Eliminated }">
+          <div class="picker-name-container">
+            <span class="picker-name">{{picker.Name}}</span>
+            <span 
+              v-if="picker.Eliminated" 
+              class="reason-tooltip" >
+              ?
+              <span class="reason-text">{{picker.EliminationReason}}</span>
+            </span>
+          </div>
+          <div 
+            v-for="pick in picker.Picks" 
+            class="picker-selection" 
+            v-bind:class="{ 'incorrect-pick': !pick.Correct }"> 
+            {{pick.Team}}
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
     <script src="survivor-data.js"></script>
     <script src="scripts.js"></script>
-    <script type="text/javascript">
-      (function() {
-        InitResults();
-      })();
-    </script>
   </body>
 </html>
