@@ -214,7 +214,8 @@ const survivorData = {
       ],
       "AllNames": [
         "urbanslegends",
-        "randymonfredi"
+        "randymonfredi",
+        "urban"
       ]
     },
     {
@@ -292,7 +293,7 @@ const survivorData = {
         }
       ],
       "AllNames": [
-        "woodysrightcross"
+        "woodysrightcross", "woody"
       ]
     },
     {
