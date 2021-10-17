@@ -2,9 +2,9 @@ const survivorData = {
   "Pickers": [
     {
       "Name": "Gools",
-      "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Purdue",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-09T15:08:08",
@@ -40,13 +40,6 @@ const survivorData = {
           "Week": 6,
           "Team": "Michigan",
           "Correct": true
-        },
-        {
-          "PickDateTime": "2021-10-14T20:01:15",
-          "Name": "Gools",
-          "Week": 7,
-          "Team": "Michigan State",
-          "Correct": true
         }
       ],
       "AllNames": [
@@ -55,9 +48,9 @@ const survivorData = {
     },
     {
       "Name": "Dan",
-      "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Nebraska",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-09T15:51:55",
@@ -93,13 +86,6 @@ const survivorData = {
           "Week": 6,
           "Team": "Wisconsin",
           "Correct": true
-        },
-        {
-          "PickDateTime": "2021-10-15T19:13:58",
-          "Name": "Dan",
-          "Week": 7,
-          "Team": "Michigan State",
-          "Correct": true
         }
       ],
       "AllNames": [
@@ -109,8 +95,8 @@ const survivorData = {
     {
       "Name": "Beast",
       "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Northwestern",
+      "WeekEliminated": 4,
+      "EliminationReason": "Incorrect Pick: Minnesota",
       "Picks": [
         {
           "PickDateTime": "2021-09-09T20:21:15",
@@ -140,9 +126,9 @@ const survivorData = {
     },
     {
       "Name": "8",
-      "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Northwestern",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-10T09:31:41",
@@ -178,13 +164,6 @@ const survivorData = {
           "Week": 6,
           "Team": "Ohio State",
           "Correct": true
-        },
-        {
-          "PickDateTime": "2021-10-15T23:08:33",
-          "Name": "8",
-          "Week": 7,
-          "Team": "Wisconsin",
-          "Correct": true
         }
       ],
       "AllNames": [
@@ -193,9 +172,9 @@ const survivorData = {
     },
     {
       "Name": "Urban's Legends",
-      "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Michigan State",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-11T08:54:23",
@@ -241,8 +220,8 @@ const survivorData = {
     {
       "Name": "Ronnie Shoemaker",
       "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Indiana",
+      "WeekEliminated": 4,
+      "EliminationReason": "Incorrect Pick: Minnesota",
       "Picks": [
         {
           "PickDateTime": "2021-09-11T08:51:58",
@@ -272,9 +251,9 @@ const survivorData = {
     },
     {
       "Name": "Woody's Right Cross",
-      "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Purdue",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-11T08:53:17",
@@ -318,9 +297,9 @@ const survivorData = {
     },
     {
       "Name": "Philip",
-      "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Purdue",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-11T11:28:34",
@@ -356,13 +335,6 @@ const survivorData = {
           "Week": 6,
           "Team": "Wisconsin",
           "Correct": true
-        },
-        {
-          "PickDateTime": "2021-10-16T11:43:06",
-          "Name": "Philip",
-          "Week": 7,
-          "Team": "Iowa",
-          "Correct": false
         }
       ],
       "AllNames": [
@@ -372,8 +344,8 @@ const survivorData = {
     {
       "Name": "Drew",
       "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Penn State",
+      "WeekEliminated": 6,
+      "EliminationReason": "Repeat Pick: Michigan State",
       "Picks": [
         {
           "PickDateTime": "2021-09-11T11:53:26",
@@ -418,8 +390,8 @@ const survivorData = {
     {
       "Name": "Jeff",
       "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Northwestern",
+      "WeekEliminated": 4,
+      "EliminationReason": "Incorrect Pick: Minnesota",
       "Picks": [
         {
           "PickDateTime": "2021-09-11T13:15:33",
@@ -450,8 +422,8 @@ const survivorData = {
     {
       "Name": "Zach",
       "Eliminated": true,
-      "WeekEliminated": 2,
-      "EliminationReason": "Repeat Pick: Michigan State",
+      "WeekEliminated": 4,
+      "EliminationReason": "Incorrect Pick: Minnesota",
       "Picks": [
         {
           "PickDateTime": "2021-09-11T13:15:33",
@@ -484,8 +456,8 @@ const survivorData = {
   "Schedule": [
     {
       "WeekNum": 2,
-      "StartDate": "2021-09-07T07:00:00+00:00",
-      "EndDate": "2021-09-14T06:59:00+00:00",
+      "StartDate": "2021-09-07T03:00:00-04:00",
+      "EndDate": "2021-09-14T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Ohio State Buckeyes",
@@ -659,8 +631,8 @@ const survivorData = {
     },
     {
       "WeekNum": 3,
-      "StartDate": "2021-09-14T07:00:00+00:00",
-      "EndDate": "2021-09-21T06:59:00+00:00",
+      "StartDate": "2021-09-14T03:00:00-04:00",
+      "EndDate": "2021-09-21T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Illinois Fighting Illini",
@@ -822,8 +794,8 @@ const survivorData = {
     },
     {
       "WeekNum": 4,
-      "StartDate": "2021-09-21T07:00:00+00:00",
-      "EndDate": "2021-09-28T06:59:00+00:00",
+      "StartDate": "2021-09-21T03:00:00-04:00",
+      "EndDate": "2021-09-28T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Iowa Hawkeyes",
@@ -997,8 +969,8 @@ const survivorData = {
     },
     {
       "WeekNum": 5,
-      "StartDate": "2021-09-28T07:00:00+00:00",
-      "EndDate": "2021-10-05T06:59:00+00:00",
+      "StartDate": "2021-09-28T03:00:00-04:00",
+      "EndDate": "2021-10-05T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Maryland Terrapins",
@@ -1172,8 +1144,8 @@ const survivorData = {
     },
     {
       "WeekNum": 6,
-      "StartDate": "2021-10-05T07:00:00+00:00",
-      "EndDate": "2021-10-12T06:59:00+00:00",
+      "StartDate": "2021-10-05T03:00:00-04:00",
+      "EndDate": "2021-10-12T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Iowa Hawkeyes",
@@ -1299,45 +1271,9 @@ const survivorData = {
     },
     {
       "WeekNum": 7,
-      "StartDate": "2021-10-12T07:00:00+00:00",
-      "EndDate": "2021-10-19T06:59:00+00:00",
+      "StartDate": "2021-10-12T03:00:00-04:00",
+      "EndDate": "2021-10-19T02:59:00-04:00",
       "Games": [
-        {
-          "FullName": "Wisconsin Badgers",
-          "Location": "Wisconsin",
-          "Abbreviation": "WISC",
-          "Week": 7,
-          "Winner": true,
-          "HomeTeam": true,
-          "OpponentLocation": "Army",
-          "Score": "20-14",
-          "IsBigTen": true,
-          "IsCompleted": true
-        },
-        {
-          "FullName": "Iowa Hawkeyes",
-          "Location": "Iowa",
-          "Abbreviation": "IOWA",
-          "Week": 7,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Purdue",
-          "Score": "7-24",
-          "IsBigTen": true,
-          "IsCompleted": true
-        },
-        {
-          "FullName": "Purdue Boilermakers",
-          "Location": "Purdue",
-          "Abbreviation": "PUR",
-          "Week": 7,
-          "Winner": true,
-          "HomeTeam": false,
-          "OpponentLocation": "Iowa",
-          "Score": "24-7",
-          "IsBigTen": true,
-          "IsCompleted": true
-        },
         {
           "FullName": "Indiana Hoosiers",
           "Location": "Indiana",
@@ -1346,33 +1282,33 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": true,
           "OpponentLocation": "Michigan State",
-          "Score": "15-20",
+          "Score": "0-0",
           "IsBigTen": true,
-          "IsCompleted": true
+          "IsCompleted": false
         },
         {
           "FullName": "Michigan State Spartans",
           "Location": "Michigan State",
           "Abbreviation": "MSU",
           "Week": 7,
-          "Winner": true,
+          "Winner": false,
           "HomeTeam": false,
           "OpponentLocation": "Indiana",
-          "Score": "20-15",
+          "Score": "0-0",
           "IsBigTen": true,
-          "IsCompleted": true
+          "IsCompleted": false
         },
         {
           "FullName": "Minnesota Golden Gophers",
           "Location": "Minnesota",
           "Abbreviation": "MINN",
           "Week": 7,
-          "Winner": true,
+          "Winner": false,
           "HomeTeam": true,
           "OpponentLocation": "Nebraska",
-          "Score": "30-23",
+          "Score": "0-0",
           "IsBigTen": true,
-          "IsCompleted": true
+          "IsCompleted": false
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1382,21 +1318,21 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": false,
           "OpponentLocation": "Minnesota",
-          "Score": "23-30",
+          "Score": "0-0",
           "IsBigTen": true,
-          "IsCompleted": true
+          "IsCompleted": false
         },
         {
           "FullName": "Northwestern Wildcats",
           "Location": "Northwestern",
           "Abbreviation": "NU",
           "Week": 7,
-          "Winner": true,
+          "Winner": false,
           "HomeTeam": true,
           "OpponentLocation": "Rutgers",
-          "Score": "21-7",
+          "Score": "0-0",
           "IsBigTen": true,
-          "IsCompleted": true
+          "IsCompleted": false
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1406,16 +1342,52 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": false,
           "OpponentLocation": "Northwestern",
-          "Score": "7-21",
+          "Score": "0-0",
           "IsBigTen": true,
-          "IsCompleted": true
+          "IsCompleted": false
+        },
+        {
+          "FullName": "Iowa Hawkeyes",
+          "Location": "Iowa",
+          "Abbreviation": "IOWA",
+          "Week": 7,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Purdue",
+          "Score": "0-0",
+          "IsBigTen": true,
+          "IsCompleted": false
+        },
+        {
+          "FullName": "Purdue Boilermakers",
+          "Location": "Purdue",
+          "Abbreviation": "PUR",
+          "Week": 7,
+          "Winner": false,
+          "HomeTeam": false,
+          "OpponentLocation": "Iowa",
+          "Score": "0-0",
+          "IsBigTen": true,
+          "IsCompleted": false
+        },
+        {
+          "FullName": "Wisconsin Badgers",
+          "Location": "Wisconsin",
+          "Abbreviation": "WISC",
+          "Week": 7,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Army",
+          "Score": "0-0",
+          "IsBigTen": true,
+          "IsCompleted": false
         }
       ]
     },
     {
       "WeekNum": 8,
-      "StartDate": "2021-10-19T07:00:00+00:00",
-      "EndDate": "2021-10-26T06:59:00+00:00",
+      "StartDate": "2021-10-19T03:00:00-04:00",
+      "EndDate": "2021-10-26T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Michigan Wolverines",
@@ -1541,8 +1513,8 @@ const survivorData = {
     },
     {
       "WeekNum": 9,
-      "StartDate": "2021-10-26T07:00:00+00:00",
-      "EndDate": "2021-11-02T06:59:00+00:00",
+      "StartDate": "2021-10-26T03:00:00-04:00",
+      "EndDate": "2021-11-02T02:59:00-04:00",
       "Games": [
         {
           "FullName": "Ohio State Buckeyes",
@@ -1716,8 +1688,8 @@ const survivorData = {
     },
     {
       "WeekNum": 10,
-      "StartDate": "2021-11-02T07:00:00+00:00",
-      "EndDate": "2021-11-09T07:59:00+00:00",
+      "StartDate": "2021-11-02T03:00:00-04:00",
+      "EndDate": "2021-11-09T02:59:00-05:00",
       "Games": [
         {
           "FullName": "Northwestern Wildcats",
@@ -1891,8 +1863,8 @@ const survivorData = {
     },
     {
       "WeekNum": 11,
-      "StartDate": "2021-11-09T08:00:00+00:00",
-      "EndDate": "2021-11-16T07:59:00+00:00",
+      "StartDate": "2021-11-09T03:00:00-05:00",
+      "EndDate": "2021-11-16T02:59:00-05:00",
       "Games": [
         {
           "FullName": "Iowa Hawkeyes",
@@ -2042,8 +2014,8 @@ const survivorData = {
     },
     {
       "WeekNum": 12,
-      "StartDate": "2021-11-16T08:00:00+00:00",
-      "EndDate": "2021-11-23T07:59:00+00:00",
+      "StartDate": "2021-11-16T03:00:00-05:00",
+      "EndDate": "2021-11-23T02:59:00-05:00",
       "Games": [
         {
           "FullName": "Iowa Hawkeyes",
@@ -2217,8 +2189,8 @@ const survivorData = {
     },
     {
       "WeekNum": 13,
-      "StartDate": "2021-11-23T08:00:00+00:00",
-      "EndDate": "2021-11-30T07:59:00+00:00",
+      "StartDate": "2021-11-23T03:00:00-05:00",
+      "EndDate": "2021-11-30T02:59:00-05:00",
       "Games": [
         {
           "FullName": "Nebraska Cornhuskers",
@@ -2391,20 +2363,5 @@ const survivorData = {
       ]
     }
   ],
-  "UnmappedSelections": [
-    {
-      "PickDateTime": "2021-10-16T12:05:31",
-      "Name": "Woody",
-      "Week": 7,
-      "Team": "Wisconsin",
-      "Correct": true
-    },
-    {
-      "PickDateTime": "2021-10-16T12:05:45",
-      "Name": "Urban",
-      "Week": 7,
-      "Team": "Wisconsin",
-      "Correct": true
-    }
-  ]
+  "UnmappedSelections": []
 }
