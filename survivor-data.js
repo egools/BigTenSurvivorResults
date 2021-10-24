@@ -2,9 +2,9 @@ const survivorData = {
   "Pickers": [
     {
       "Name": "Gools",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 8,
+      "EliminationReason": "Incorrect Pick: Penn State",
       "Picks": [
         {
           "PickDateTime": "2021-09-09T15:08:08",
@@ -47,6 +47,13 @@ const survivorData = {
           "Week": 7,
           "Team": "Michigan State",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-10-22T23:23:43",
+          "Name": "Gools",
+          "Week": 8,
+          "Team": "Penn State",
+          "Correct": false
         }
       ],
       "AllNames": [
@@ -55,9 +62,9 @@ const survivorData = {
     },
     {
       "Name": "Dan",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 8,
+      "EliminationReason": "Incorrect Pick: Penn State",
       "Picks": [
         {
           "PickDateTime": "2021-09-09T15:51:55",
@@ -100,6 +107,13 @@ const survivorData = {
           "Week": 7,
           "Team": "Michigan State",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-10-22T23:07:09",
+          "Name": "Dan",
+          "Week": 8,
+          "Team": "Penn State",
+          "Correct": false
         }
       ],
       "AllNames": [
@@ -140,9 +154,9 @@ const survivorData = {
     },
     {
       "Name": "8",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 8,
+      "EliminationReason": "Incorrect Pick: Penn State",
       "Picks": [
         {
           "PickDateTime": "2021-09-10T09:31:41",
@@ -185,6 +199,13 @@ const survivorData = {
           "Week": 7,
           "Team": "Wisconsin",
           "Correct": true
+        },
+        {
+          "PickDateTime": "2021-10-22T01:18:31",
+          "Name": "8",
+          "Week": 8,
+          "Team": "Penn State",
+          "Correct": false
         }
       ],
       "AllNames": [
@@ -324,6 +345,13 @@ const survivorData = {
           "Name": "Woody",
           "Week": 7,
           "Team": "Wisconsin",
+          "Correct": true
+        },
+        {
+          "PickDateTime": "2021-10-23T15:34:01",
+          "Name": "Woodys right cross",
+          "Week": 8,
+          "Team": "Minnesota",
           "Correct": true
         }
       ],
@@ -1434,16 +1462,40 @@ const survivorData = {
       "EndDate": "2021-10-26T06:59:00+00:00",
       "Games": [
         {
+          "FullName": "Indiana Hoosiers",
+          "Location": "Indiana",
+          "Abbreviation": "IU",
+          "Week": 8,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Ohio State",
+          "Score": "7-54",
+          "IsBigTen": true,
+          "IsCompleted": true
+        },
+        {
+          "FullName": "Ohio State Buckeyes",
+          "Location": "Ohio State",
+          "Abbreviation": "OSU",
+          "Week": 8,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Indiana",
+          "Score": "54-7",
+          "IsBigTen": true,
+          "IsCompleted": true
+        },
+        {
           "FullName": "Michigan Wolverines",
           "Location": "Michigan",
           "Abbreviation": "MICH",
           "Week": 8,
-          "Winner": false,
+          "Winner": true,
           "HomeTeam": true,
           "OpponentLocation": "Northwestern",
-          "Score": "0-0",
+          "Score": "33-7",
           "IsBigTen": true,
-          "IsCompleted": false
+          "IsCompleted": true
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1453,33 +1505,9 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": false,
           "OpponentLocation": "Michigan",
-          "Score": "0-0",
+          "Score": "7-33",
           "IsBigTen": true,
-          "IsCompleted": false
-        },
-        {
-          "FullName": "Purdue Boilermakers",
-          "Location": "Purdue",
-          "Abbreviation": "PUR",
-          "Week": 8,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Wisconsin",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false
-        },
-        {
-          "FullName": "Wisconsin Badgers",
-          "Location": "Wisconsin",
-          "Abbreviation": "WISC",
-          "Week": 8,
-          "Winner": false,
-          "HomeTeam": false,
-          "OpponentLocation": "Purdue",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false
+          "IsCompleted": true
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1489,33 +1517,57 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": true,
           "OpponentLocation": "Illinois",
-          "Score": "0-0",
+          "Score": "18-20",
           "IsBigTen": true,
-          "IsCompleted": false
+          "IsCompleted": true
         },
         {
           "FullName": "Illinois Fighting Illini",
           "Location": "Illinois",
           "Abbreviation": "ILL",
           "Week": 8,
-          "Winner": false,
+          "Winner": true,
           "HomeTeam": false,
           "OpponentLocation": "Penn State",
-          "Score": "0-0",
+          "Score": "20-18",
           "IsBigTen": true,
-          "IsCompleted": false
+          "IsCompleted": true
+        },
+        {
+          "FullName": "Purdue Boilermakers",
+          "Location": "Purdue",
+          "Abbreviation": "PUR",
+          "Week": 8,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Wisconsin",
+          "Score": "13-30",
+          "IsBigTen": true,
+          "IsCompleted": true
+        },
+        {
+          "FullName": "Wisconsin Badgers",
+          "Location": "Wisconsin",
+          "Abbreviation": "WISC",
+          "Week": 8,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Purdue",
+          "Score": "30-13",
+          "IsBigTen": true,
+          "IsCompleted": true
         },
         {
           "FullName": "Minnesota Golden Gophers",
           "Location": "Minnesota",
           "Abbreviation": "MINN",
           "Week": 8,
-          "Winner": false,
+          "Winner": true,
           "HomeTeam": true,
           "OpponentLocation": "Maryland",
-          "Score": "0-0",
+          "Score": "34-16",
           "IsBigTen": true,
-          "IsCompleted": false
+          "IsCompleted": true
         },
         {
           "FullName": "Maryland Terrapins",
@@ -1525,33 +1577,9 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": false,
           "OpponentLocation": "Minnesota",
-          "Score": "0-0",
+          "Score": "16-34",
           "IsBigTen": true,
-          "IsCompleted": false
-        },
-        {
-          "FullName": "Indiana Hoosiers",
-          "Location": "Indiana",
-          "Abbreviation": "IU",
-          "Week": 8,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Ohio State",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false
-        },
-        {
-          "FullName": "Ohio State Buckeyes",
-          "Location": "Ohio State",
-          "Abbreviation": "OSU",
-          "Week": 8,
-          "Winner": false,
-          "HomeTeam": false,
-          "OpponentLocation": "Indiana",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false
+          "IsCompleted": true
         }
       ]
     },
