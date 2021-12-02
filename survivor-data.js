@@ -303,7 +303,7 @@ const survivorData = {
     },
     {
       "Name": "Woody's Right Cross",
-      "Eliminated": true,
+      "Eliminated": false,
       "WeekEliminated": null,
       "EliminationReason": null,
       "Picks": [
