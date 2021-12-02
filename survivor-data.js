@@ -1,4 +1,6 @@
 const survivorData = {
+  "HasWinner": true,
+  "WinnerName": "Woody's Right Cross",
   "Pickers": [
     {
       "Name": "Gools",
@@ -302,8 +304,8 @@ const survivorData = {
     {
       "Name": "Woody's Right Cross",
       "Eliminated": true,
-      "WeekEliminated": 9,
-      "EliminationReason": "No Pick",
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2021-09-11T08:53:17",
