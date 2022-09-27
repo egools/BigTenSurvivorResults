@@ -122,9 +122,9 @@ const survivorData = {
     },
     {
       "Name": "Ronnie",
-      "Eliminated": true,
+      "Eliminated": false,
       "WeekEliminated": 2,
-      "EliminationReason": "No Pick",
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2022-09-17T09:33:56",
@@ -138,13 +138,6 @@ const survivorData = {
           "Name": "Ronnie Shoemaker",
           "Week": 4,
           "Team": "Purdue",
-          "Correct": true
-        },
-        {
-          "PickDateTime": "2022-09-24T11:23:06",
-          "Name": "Ronnie Shoemaker",
-          "Week": 4,
-          "Team": "Illinois",
           "Correct": true
         }
       ],
