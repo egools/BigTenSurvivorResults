@@ -135,7 +135,8 @@ const survivorData = {
         }
       ],
       "AllNames": [
-        "ronnie"
+        "ronnie",
+        "ronnieshoemaker"
       ]
     },
     {
