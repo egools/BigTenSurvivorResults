@@ -123,7 +123,7 @@ const survivorData = {
     {
       "Name": "Ronnie",
       "Eliminated": false,
-      "WeekEliminated": 2,
+      "WeekEliminated": null,
       "EliminationReason": null,
       "Picks": [
         {
