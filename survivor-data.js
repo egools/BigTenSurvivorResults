@@ -3,5 +3,5 @@ const survivorData = {
   "WinnerName": null,
   "Pickers": null,
   "Schedule": null,
-  "UnmappedSelections": null
+  "UnmappedSelections": []
 }
