@@ -218,14 +218,14 @@ const survivorData = {
       "Name": "Bob",
       "Eliminated": true,
       "WeekEliminated": 4,
-      "EliminationReason": "No Pick",
+      "EliminationReason": "Late Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-18T12:27:37",
           "Name": "Bob",
           "Week": 3,
           "Team": "Ohio State",
-          "Correct": true
+          "Correct": false
         }
       ],
       "AllNames": [
