@@ -1,7 +1,7 @@
 const survivorData = {
   "HasWinner": false,
   "WinnerName": null,
-  "Pickers": [],
-  "Schedule": [],
-  "UnmappedSelections": []
+  "Pickers": null,
+  "Schedule": null,
+  "UnmappedSelections": null
 }
