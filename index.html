@@ -20,16 +20,17 @@
             <span class="picker-name">{{picker.Name}}</span>
             <span 
               v-if="picker.Eliminated" 
-              class="reason-tooltip" >
+              class="tooltip reason-tooltip" >
               ?
-              <span class="reason-text">{{picker.EliminationReason}}</span>
             </span>
+            <div class="tooltip-text">{{picker.EliminationReason}}</div>
           </div>
           <div 
             v-for="pick in picker.Picks" 
             class="picker-selection" 
             v-bind:class="{ 'incorrect-pick': !pick.Correct }"> 
-            {{pick.Team}}
+            <div class="tooltip">{{pick.Team}}</div>
+            <div class="tooltip-text">{{pick.SelectionStatus}}</div>
           </div>
         </div>
       </div>
