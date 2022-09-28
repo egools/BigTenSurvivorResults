@@ -142,6 +142,22 @@ const survivorData = {
           "Team": "Wisconsin",
           "Correct": true,
           "SelectionStatus": "Beat New Mexico State 66-7"
+        },
+        {
+          "PickDateTime": "2022-09-24T14:41:58",
+          "Name": "Ronnie Shoemaker",
+          "Week": 4,
+          "Team": "Purdue",
+          "Correct": true,
+          "SelectionStatus": "Beat Florida Atlantic 28-26"
+        },
+        {
+          "PickDateTime": "2022-09-24T11:23:06",
+          "Name": "Ronnie Shoemaker",
+          "Week": 4,
+          "Team": "Illinois",
+          "Correct": false,
+          "SelectionStatus": "Late Pick"
         }
       ],
       "AllNames": [
@@ -2123,22 +2139,5 @@ const survivorData = {
       ]
     }
   ],
-  "UnmappedSelections": [
-    {
-      "PickDateTime": "2022-09-24T11:23:06",
-      "Name": "Ronnie Shoemaker",
-      "Week": 4,
-      "Team": "Illinois",
-      "Correct": false,
-      "SelectionStatus": "Late Pick"
-    },
-    {
-      "PickDateTime": "2022-09-24T14:41:58",
-      "Name": "Ronnie Shoemaker",
-      "Week": 4,
-      "Team": "Purdue",
-      "Correct": true,
-      "SelectionStatus": "Beat Florida Atlantic 28-26"
-    }
-  ]
+  "UnmappedSelections": []
 }
