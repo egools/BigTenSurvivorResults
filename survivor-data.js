@@ -131,9 +131,9 @@ const survivorData = {
     },
     {
       "Name": "Ronnie",
-      "Eliminated": true,
-      "WeekEliminated": 4,
-      "EliminationReason": "No Pick",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2022-09-17T09:33:56",
@@ -145,7 +145,8 @@ const survivorData = {
         }
       ],
       "AllNames": [
-        "ronnie"
+        "ronnie",
+        "ronnieshoemaker"
       ]
     },
     {
