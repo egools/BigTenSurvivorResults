@@ -1,12 +1,12 @@
 const survivorData = {
-  "HasWinner": false,
-  "WinnerName": null,
+  "HasWinner": true,
+  "WinnerName": "All players eliminated. Tie breaker needed.",
   "Pickers": [
     {
       "Name": "Zach A",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-16T00:30:51",
@@ -31,6 +31,14 @@ const survivorData = {
           "Team": "Maryland",
           "Correct": true,
           "SelectionStatus": "Beat Michigan State 27-13"
+        },
+        {
+          "PickDateTime": "2022-10-06T21:05:11",
+          "Name": "Zach A",
+          "Week": 6,
+          "Team": "Wisconsin",
+          "Correct": true,
+          "SelectionStatus": "Beat Northwestern 42-7"
         }
       ],
       "AllNames": [
@@ -40,8 +48,8 @@ const survivorData = {
     {
       "Name": "Gools",
       "Eliminated": true,
-      "WeekEliminated": 4,
-      "EliminationReason": "Incorrect Pick: Illinois",
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-16T00:48:37",
@@ -67,7 +75,7 @@ const survivorData = {
     {
       "Name": "Beast",
       "Eliminated": true,
-      "WeekEliminated": 4,
+      "WeekEliminated": 0,
       "EliminationReason": "No Pick",
       "Picks": [
         {
@@ -86,7 +94,7 @@ const survivorData = {
     {
       "Name": "Woody",
       "Eliminated": true,
-      "WeekEliminated": 5,
+      "WeekEliminated": 0,
       "EliminationReason": "No Pick",
       "Picks": [
         {
@@ -112,9 +120,9 @@ const survivorData = {
     },
     {
       "Name": "Drew",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-16T23:48:02",
@@ -139,6 +147,14 @@ const survivorData = {
           "Team": "Maryland",
           "Correct": true,
           "SelectionStatus": "Beat Michigan State 27-13"
+        },
+        {
+          "PickDateTime": "2022-10-08T13:44:55",
+          "Name": "Drew",
+          "Week": 6,
+          "Team": "Ohio State",
+          "Correct": true,
+          "SelectionStatus": "Beat Michigan State 49-20"
         }
       ],
       "AllNames": [
@@ -148,8 +164,8 @@ const survivorData = {
     {
       "Name": "Ronnie",
       "Eliminated": true,
-      "WeekEliminated": 5,
-      "EliminationReason": "Incorrect Pick: Minnesota",
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-17T09:33:56",
@@ -183,9 +199,9 @@ const survivorData = {
     },
     {
       "Name": "8",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-17T13:13:13",
@@ -210,6 +226,14 @@ const survivorData = {
           "Team": "Penn State",
           "Correct": true,
           "SelectionStatus": "Beat Northwestern 17-7"
+        },
+        {
+          "PickDateTime": "2022-10-07T15:59:41",
+          "Name": "8",
+          "Week": 6,
+          "Team": "Michigan",
+          "Correct": true,
+          "SelectionStatus": "Beat Indiana 31-10"
         }
       ],
       "AllNames": [
@@ -218,9 +242,9 @@ const survivorData = {
     },
     {
       "Name": "Dan",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-17T13:19:35",
@@ -245,6 +269,14 @@ const survivorData = {
           "Team": "Penn State",
           "Correct": true,
           "SelectionStatus": "Beat Northwestern 17-7"
+        },
+        {
+          "PickDateTime": "2022-10-08T14:15:21",
+          "Name": "Dan",
+          "Week": 6,
+          "Team": "Ohio State",
+          "Correct": true,
+          "SelectionStatus": "Beat Michigan State 49-20"
         }
       ],
       "AllNames": [
@@ -253,9 +285,9 @@ const survivorData = {
     },
     {
       "Name": "Jeff",
-      "Eliminated": false,
-      "WeekEliminated": null,
-      "EliminationReason": null,
+      "Eliminated": true,
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-17T13:36:16",
@@ -280,6 +312,14 @@ const survivorData = {
           "Team": "Penn State",
           "Correct": true,
           "SelectionStatus": "Beat Northwestern 17-7"
+        },
+        {
+          "PickDateTime": "2022-10-08T14:22:02",
+          "Name": "Jeff",
+          "Week": 6,
+          "Team": "Wisconsin",
+          "Correct": true,
+          "SelectionStatus": "Beat Northwestern 42-7"
         }
       ],
       "AllNames": [
@@ -289,8 +329,8 @@ const survivorData = {
     {
       "Name": "Bob",
       "Eliminated": true,
-      "WeekEliminated": 3,
-      "EliminationReason": "Incorrect Pick: Ohio State",
+      "WeekEliminated": 0,
+      "EliminationReason": "No Pick",
       "Picks": [
         {
           "PickDateTime": "2022-09-18T12:27:37",
@@ -309,8 +349,8 @@ const survivorData = {
   "Schedule": [
     {
       "WeekNum": 3,
-      "StartDate": "2022-09-13T03:00:00-04:00",
-      "EndDate": "2022-09-20T02:59:00-04:00",
+      "StartDate": "2022-09-13T07:00:00+00:00",
+      "EndDate": "2022-09-20T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Ohio State Buckeyes",
@@ -323,7 +363,7 @@ const survivorData = {
           "Score": "77-21",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T19:00:00-04:00"
+          "GameDateTime": "2022-09-17T23:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -336,7 +376,7 @@ const survivorData = {
           "Score": "59-0",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T12:00:00-04:00"
+          "GameDateTime": "2022-09-17T16:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -349,7 +389,7 @@ const survivorData = {
           "Score": "14-49",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T12:00:00-04:00"
+          "GameDateTime": "2022-09-17T16:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -362,7 +402,7 @@ const survivorData = {
           "Score": "28-39",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T19:30:00-04:00"
+          "GameDateTime": "2022-09-17T23:30:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -375,7 +415,7 @@ const survivorData = {
           "Score": "41-12",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T15:30:00-04:00"
+          "GameDateTime": "2022-09-17T19:30:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -388,7 +428,7 @@ const survivorData = {
           "Score": "24-31",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T12:00:00-04:00"
+          "GameDateTime": "2022-09-17T16:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -401,7 +441,7 @@ const survivorData = {
           "Score": "29-32",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T12:00:00-04:00"
+          "GameDateTime": "2022-09-17T16:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -414,7 +454,7 @@ const survivorData = {
           "Score": "33-30",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T12:00:00-04:00"
+          "GameDateTime": "2022-09-17T16:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -427,7 +467,7 @@ const survivorData = {
           "Score": "16-14",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T14:00:00-04:00"
+          "GameDateTime": "2022-09-17T18:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -440,7 +480,7 @@ const survivorData = {
           "Score": "49-7",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T15:30:00-04:00"
+          "GameDateTime": "2022-09-17T19:30:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -453,7 +493,7 @@ const survivorData = {
           "Score": "66-7",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T15:30:00-04:00"
+          "GameDateTime": "2022-09-17T19:30:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -466,7 +506,7 @@ const survivorData = {
           "Score": "27-0",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T19:30:00-04:00"
+          "GameDateTime": "2022-09-17T23:30:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -479,14 +519,14 @@ const survivorData = {
           "Score": "34-27",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-17T19:30:00-04:00"
+          "GameDateTime": "2022-09-17T23:30:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 4,
-      "StartDate": "2022-09-20T03:00:00-04:00",
-      "EndDate": "2022-09-27T02:59:00-04:00",
+      "StartDate": "2022-09-20T07:00:00+00:00",
+      "EndDate": "2022-09-27T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Illinois Fighting Illini",
@@ -499,7 +539,7 @@ const survivorData = {
           "Score": "31-0",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-22T20:30:00-04:00"
+          "GameDateTime": "2022-09-23T00:30:00+00:00"
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -512,7 +552,7 @@ const survivorData = {
           "Score": "52-21",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T19:30:00-04:00"
+          "GameDateTime": "2022-09-24T23:30:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -525,7 +565,7 @@ const survivorData = {
           "Score": "21-52",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T19:30:00-04:00"
+          "GameDateTime": "2022-09-24T23:30:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -538,7 +578,7 @@ const survivorData = {
           "Score": "34-27",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T12:00:00-04:00"
+          "GameDateTime": "2022-09-24T16:00:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -551,7 +591,7 @@ const survivorData = {
           "Score": "27-34",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T12:00:00-04:00"
+          "GameDateTime": "2022-09-24T16:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -564,7 +604,7 @@ const survivorData = {
           "Score": "33-14",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T12:00:00-04:00"
+          "GameDateTime": "2022-09-24T16:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -577,7 +617,7 @@ const survivorData = {
           "Score": "7-34",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T15:30:00-04:00"
+          "GameDateTime": "2022-09-24T19:30:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -590,7 +630,7 @@ const survivorData = {
           "Score": "34-7",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T15:30:00-04:00"
+          "GameDateTime": "2022-09-24T19:30:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -603,7 +643,7 @@ const survivorData = {
           "Score": "24-45",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T15:30:00-04:00"
+          "GameDateTime": "2022-09-24T19:30:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -616,7 +656,7 @@ const survivorData = {
           "Score": "10-27",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T19:00:00-04:00"
+          "GameDateTime": "2022-09-24T23:00:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -629,7 +669,7 @@ const survivorData = {
           "Score": "27-10",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T19:00:00-04:00"
+          "GameDateTime": "2022-09-24T23:00:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -642,7 +682,7 @@ const survivorData = {
           "Score": "14-17",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T19:30:00-04:00"
+          "GameDateTime": "2022-09-24T23:30:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -655,14 +695,14 @@ const survivorData = {
           "Score": "28-26",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-09-24T19:30:00-04:00"
+          "GameDateTime": "2022-09-24T23:30:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 5,
-      "StartDate": "2022-09-27T03:00:00-04:00",
-      "EndDate": "2022-10-04T02:59:00-04:00",
+      "StartDate": "2022-09-27T07:00:00+00:00",
+      "EndDate": "2022-10-04T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Ohio State Buckeyes",
@@ -675,7 +715,7 @@ const survivorData = {
           "Score": "49-10",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T15:30:00-04:00"
+          "GameDateTime": "2022-10-01T19:30:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -688,7 +728,7 @@ const survivorData = {
           "Score": "10-49",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T15:30:00-04:00"
+          "GameDateTime": "2022-10-01T19:30:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -701,7 +741,7 @@ const survivorData = {
           "Score": "14-27",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T12:00:00-04:00"
+          "GameDateTime": "2022-10-01T16:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -714,7 +754,7 @@ const survivorData = {
           "Score": "27-14",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T12:00:00-04:00"
+          "GameDateTime": "2022-10-01T16:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -727,7 +767,7 @@ const survivorData = {
           "Score": "17-7",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T15:30:00-04:00"
+          "GameDateTime": "2022-10-01T19:30:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -740,7 +780,7 @@ const survivorData = {
           "Score": "7-17",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T15:30:00-04:00"
+          "GameDateTime": "2022-10-01T19:30:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -753,7 +793,7 @@ const survivorData = {
           "Score": "10-20",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T12:00:00-04:00"
+          "GameDateTime": "2022-10-01T16:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -766,7 +806,7 @@ const survivorData = {
           "Score": "20-10",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T12:00:00-04:00"
+          "GameDateTime": "2022-10-01T16:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -779,7 +819,7 @@ const survivorData = {
           "Score": "10-34",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T12:00:00-04:00"
+          "GameDateTime": "2022-10-01T16:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -792,7 +832,7 @@ const survivorData = {
           "Score": "34-10",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T12:00:00-04:00"
+          "GameDateTime": "2022-10-01T16:00:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -805,7 +845,7 @@ const survivorData = {
           "Score": "27-13",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T15:30:00-04:00"
+          "GameDateTime": "2022-10-01T19:30:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -818,7 +858,7 @@ const survivorData = {
           "Score": "13-27",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T15:30:00-04:00"
+          "GameDateTime": "2022-10-01T19:30:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -831,7 +871,7 @@ const survivorData = {
           "Score": "35-21",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T19:30:00-04:00"
+          "GameDateTime": "2022-10-01T23:30:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -844,14 +884,14 @@ const survivorData = {
           "Score": "21-35",
           "IsBigTen": true,
           "IsCompleted": true,
-          "GameDateTime": "2022-10-01T19:30:00-04:00"
+          "GameDateTime": "2022-10-01T23:30:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 6,
-      "StartDate": "2022-10-04T03:00:00-04:00",
-      "EndDate": "2022-10-11T02:59:00-04:00",
+      "StartDate": "2022-10-04T07:00:00+00:00",
+      "EndDate": "2022-10-11T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -861,127 +901,23 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": true,
           "OpponentLocation": "Nebraska",
-          "Score": "0-0",
+          "Score": "13-14",
           "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-07T19:00:00-04:00"
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-07T23:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
           "Location": "Nebraska",
           "Abbreviation": "NEB",
           "Week": 6,
-          "Winner": false,
+          "Winner": true,
           "HomeTeam": false,
           "OpponentLocation": "Rutgers",
-          "Score": "0-0",
+          "Score": "14-13",
           "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-07T19:00:00-04:00"
-        },
-        {
-          "FullName": "Illinois Fighting Illini",
-          "Location": "Illinois",
-          "Abbreviation": "ILL",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Iowa",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T00:00:00-04:00"
-        },
-        {
-          "FullName": "Iowa Hawkeyes",
-          "Location": "Iowa",
-          "Abbreviation": "IOWA",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": false,
-          "OpponentLocation": "Illinois",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T00:00:00-04:00"
-        },
-        {
-          "FullName": "Northwestern Wildcats",
-          "Location": "Northwestern",
-          "Abbreviation": "NU",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Wisconsin",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T00:00:00-04:00"
-        },
-        {
-          "FullName": "Wisconsin Badgers",
-          "Location": "Wisconsin",
-          "Abbreviation": "WISC",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": false,
-          "OpponentLocation": "Northwestern",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T00:00:00-04:00"
-        },
-        {
-          "FullName": "Indiana Hoosiers",
-          "Location": "Indiana",
-          "Abbreviation": "IU",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Michigan",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T12:00:00-04:00"
-        },
-        {
-          "FullName": "Michigan Wolverines",
-          "Location": "Michigan",
-          "Abbreviation": "MICH",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": false,
-          "OpponentLocation": "Indiana",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T12:00:00-04:00"
-        },
-        {
-          "FullName": "Maryland Terrapins",
-          "Location": "Maryland",
-          "Abbreviation": "MD",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": true,
-          "OpponentLocation": "Purdue",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T12:00:00-04:00"
-        },
-        {
-          "FullName": "Purdue Boilermakers",
-          "Location": "Purdue",
-          "Abbreviation": "PUR",
-          "Week": 6,
-          "Winner": false,
-          "HomeTeam": false,
-          "OpponentLocation": "Maryland",
-          "Score": "0-0",
-          "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T12:00:00-04:00"
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-07T23:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -991,30 +927,134 @@ const survivorData = {
           "Winner": false,
           "HomeTeam": true,
           "OpponentLocation": "Ohio State",
-          "Score": "0-0",
+          "Score": "20-49",
           "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T16:00:00-04:00"
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T20:00:00+00:00"
         },
         {
           "FullName": "Ohio State Buckeyes",
           "Location": "Ohio State",
           "Abbreviation": "OSU",
           "Week": 6,
-          "Winner": false,
+          "Winner": true,
           "HomeTeam": false,
           "OpponentLocation": "Michigan State",
-          "Score": "0-0",
+          "Score": "49-20",
           "IsBigTen": true,
-          "IsCompleted": false,
-          "GameDateTime": "2022-10-08T16:00:00-04:00"
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T20:00:00+00:00"
+        },
+        {
+          "FullName": "Indiana Hoosiers",
+          "Location": "Indiana",
+          "Abbreviation": "IU",
+          "Week": 6,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Michigan",
+          "Score": "10-31",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T16:00:00+00:00"
+        },
+        {
+          "FullName": "Michigan Wolverines",
+          "Location": "Michigan",
+          "Abbreviation": "MICH",
+          "Week": 6,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Indiana",
+          "Score": "31-10",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T16:00:00+00:00"
+        },
+        {
+          "FullName": "Maryland Terrapins",
+          "Location": "Maryland",
+          "Abbreviation": "MD",
+          "Week": 6,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Purdue",
+          "Score": "29-31",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T16:00:00+00:00"
+        },
+        {
+          "FullName": "Purdue Boilermakers",
+          "Location": "Purdue",
+          "Abbreviation": "PUR",
+          "Week": 6,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Maryland",
+          "Score": "31-29",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T16:00:00+00:00"
+        },
+        {
+          "FullName": "Northwestern Wildcats",
+          "Location": "Northwestern",
+          "Abbreviation": "NU",
+          "Week": 6,
+          "Winner": false,
+          "HomeTeam": true,
+          "OpponentLocation": "Wisconsin",
+          "Score": "7-42",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T19:30:00+00:00"
+        },
+        {
+          "FullName": "Wisconsin Badgers",
+          "Location": "Wisconsin",
+          "Abbreviation": "WISC",
+          "Week": 6,
+          "Winner": true,
+          "HomeTeam": false,
+          "OpponentLocation": "Northwestern",
+          "Score": "42-7",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T19:30:00+00:00"
+        },
+        {
+          "FullName": "Illinois Fighting Illini",
+          "Location": "Illinois",
+          "Abbreviation": "ILL",
+          "Week": 6,
+          "Winner": true,
+          "HomeTeam": true,
+          "OpponentLocation": "Iowa",
+          "Score": "9-6",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T23:30:00+00:00"
+        },
+        {
+          "FullName": "Iowa Hawkeyes",
+          "Location": "Iowa",
+          "Abbreviation": "IOWA",
+          "Week": 6,
+          "Winner": false,
+          "HomeTeam": false,
+          "OpponentLocation": "Illinois",
+          "Score": "6-9",
+          "IsBigTen": true,
+          "IsCompleted": true,
+          "GameDateTime": "2022-10-08T23:30:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 7,
-      "StartDate": "2022-10-11T03:00:00-04:00",
-      "EndDate": "2022-10-18T02:59:00-04:00",
+      "StartDate": "2022-10-11T07:00:00+00:00",
+      "EndDate": "2022-10-18T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Michigan Wolverines",
@@ -1027,7 +1067,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1040,7 +1080,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1053,7 +1093,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1066,7 +1106,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1079,7 +1119,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -1092,7 +1132,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -1105,7 +1145,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -1118,7 +1158,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T00:00:00-04:00"
+          "GameDateTime": "2022-10-15T04:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1131,7 +1171,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T12:00:00-04:00"
+          "GameDateTime": "2022-10-15T16:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1144,14 +1184,14 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-15T12:00:00-04:00"
+          "GameDateTime": "2022-10-15T16:00:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 8,
-      "StartDate": "2022-10-18T03:00:00-04:00",
-      "EndDate": "2022-10-25T02:59:00-04:00",
+      "StartDate": "2022-10-18T07:00:00+00:00",
+      "EndDate": "2022-10-25T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Ohio State Buckeyes",
@@ -1164,7 +1204,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T00:00:00-04:00"
+          "GameDateTime": "2022-10-22T04:00:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -1177,7 +1217,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T00:00:00-04:00"
+          "GameDateTime": "2022-10-22T04:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1190,7 +1230,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T12:00:00-04:00"
+          "GameDateTime": "2022-10-22T16:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1203,7 +1243,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T12:00:00-04:00"
+          "GameDateTime": "2022-10-22T16:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -1216,7 +1256,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T15:30:00-04:00"
+          "GameDateTime": "2022-10-22T19:30:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1229,7 +1269,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T15:30:00-04:00"
+          "GameDateTime": "2022-10-22T19:30:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -1242,7 +1282,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T15:30:00-04:00"
+          "GameDateTime": "2022-10-22T19:30:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1255,7 +1295,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T15:30:00-04:00"
+          "GameDateTime": "2022-10-22T19:30:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1268,7 +1308,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T19:30:00-04:00"
+          "GameDateTime": "2022-10-22T23:30:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1281,14 +1321,14 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-22T19:30:00-04:00"
+          "GameDateTime": "2022-10-22T23:30:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 9,
-      "StartDate": "2022-10-25T03:00:00-04:00",
-      "EndDate": "2022-11-01T02:59:00-04:00",
+      "StartDate": "2022-10-25T07:00:00+00:00",
+      "EndDate": "2022-11-01T06:59:00+00:00",
       "Games": [
         {
           "FullName": "Penn State Nittany Lions",
@@ -1301,7 +1341,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -1314,7 +1354,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -1327,7 +1367,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -1340,7 +1380,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1353,7 +1393,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1366,7 +1406,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1379,7 +1419,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1392,7 +1432,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T00:00:00-04:00"
+          "GameDateTime": "2022-10-29T04:00:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -1405,7 +1445,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T15:00:00-04:00"
+          "GameDateTime": "2022-10-29T19:00:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1418,14 +1458,14 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-10-29T15:00:00-04:00"
+          "GameDateTime": "2022-10-29T19:00:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 10,
-      "StartDate": "2022-11-01T03:00:00-04:00",
-      "EndDate": "2022-11-08T02:59:00-05:00",
+      "StartDate": "2022-11-01T07:00:00+00:00",
+      "EndDate": "2022-11-08T07:59:00+00:00",
       "Games": [
         {
           "FullName": "Northwestern Wildcats",
@@ -1438,7 +1478,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -1451,7 +1491,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1464,7 +1504,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -1477,7 +1517,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1490,7 +1530,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1503,7 +1543,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1516,7 +1556,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1529,7 +1569,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1542,7 +1582,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -1555,7 +1595,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1568,7 +1608,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -1581,7 +1621,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -1594,7 +1634,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -1607,14 +1647,14 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-05T00:00:00-04:00"
+          "GameDateTime": "2022-11-05T04:00:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 11,
-      "StartDate": "2022-11-08T03:00:00-05:00",
-      "EndDate": "2022-11-15T02:59:00-05:00",
+      "StartDate": "2022-11-08T08:00:00+00:00",
+      "EndDate": "2022-11-15T07:59:00+00:00",
       "Games": [
         {
           "FullName": "Ohio State Buckeyes",
@@ -1627,7 +1667,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1640,7 +1680,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -1653,7 +1693,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1666,7 +1706,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1679,7 +1719,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -1692,7 +1732,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1705,7 +1745,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1718,7 +1758,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1731,7 +1771,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1744,7 +1784,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -1757,7 +1797,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -1770,7 +1810,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -1783,7 +1823,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1796,14 +1836,14 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-12T00:00:00-05:00"
+          "GameDateTime": "2022-11-12T05:00:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 12,
-      "StartDate": "2022-11-15T03:00:00-05:00",
-      "EndDate": "2022-11-22T02:59:00-05:00",
+      "StartDate": "2022-11-15T08:00:00+00:00",
+      "EndDate": "2022-11-22T07:59:00+00:00",
       "Games": [
         {
           "FullName": "Maryland Terrapins",
@@ -1816,7 +1856,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -1829,7 +1869,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -1842,7 +1882,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -1855,7 +1895,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -1868,7 +1908,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -1881,7 +1921,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -1894,7 +1934,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Iowa Hawkeyes",
@@ -1907,7 +1947,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -1920,7 +1960,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -1933,7 +1973,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -1946,7 +1986,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -1959,7 +1999,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -1972,7 +2012,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -1985,14 +2025,14 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-19T00:00:00-05:00"
+          "GameDateTime": "2022-11-19T05:00:00+00:00"
         }
       ]
     },
     {
       "WeekNum": 13,
-      "StartDate": "2022-11-22T03:00:00-05:00",
-      "EndDate": "2022-11-29T02:59:00-05:00",
+      "StartDate": "2022-11-22T08:00:00+00:00",
+      "EndDate": "2022-11-29T07:59:00+00:00",
       "Games": [
         {
           "FullName": "Iowa Hawkeyes",
@@ -2005,7 +2045,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-25T16:00:00-05:00"
+          "GameDateTime": "2022-11-25T21:00:00+00:00"
         },
         {
           "FullName": "Nebraska Cornhuskers",
@@ -2018,7 +2058,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-25T16:00:00-05:00"
+          "GameDateTime": "2022-11-25T21:00:00+00:00"
         },
         {
           "FullName": "Penn State Nittany Lions",
@@ -2031,7 +2071,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Michigan State Spartans",
@@ -2044,7 +2084,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Wisconsin Badgers",
@@ -2057,7 +2097,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Minnesota Golden Gophers",
@@ -2070,7 +2110,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Northwestern Wildcats",
@@ -2083,7 +2123,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Illinois Fighting Illini",
@@ -2096,7 +2136,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Indiana Hoosiers",
@@ -2109,7 +2149,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Purdue Boilermakers",
@@ -2122,7 +2162,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Maryland Terrapins",
@@ -2135,7 +2175,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Rutgers Scarlet Knights",
@@ -2148,7 +2188,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T00:00:00-05:00"
+          "GameDateTime": "2022-11-26T05:00:00+00:00"
         },
         {
           "FullName": "Ohio State Buckeyes",
@@ -2161,7 +2201,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T12:00:00-05:00"
+          "GameDateTime": "2022-11-26T17:00:00+00:00"
         },
         {
           "FullName": "Michigan Wolverines",
@@ -2174,7 +2214,7 @@ const survivorData = {
           "Score": "0-0",
           "IsBigTen": true,
           "IsCompleted": false,
-          "GameDateTime": "2022-11-26T12:00:00-05:00"
+          "GameDateTime": "2022-11-26T17:00:00+00:00"
         }
       ]
     }
