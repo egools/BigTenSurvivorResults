@@ -1,12 +1,12 @@
 const survivorData = {
-  "HasWinner": true,
-  "WinnerName": "All players eliminated. Tie breaker needed.",
+  "HasWinner": false,
+  "WinnerName": null,
   "Pickers": [
     {
       "Name": "Zach A",
-      "Eliminated": true,
-      "WeekEliminated": 0,
-      "EliminationReason": "No Pick",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2022-09-16T00:30:51",
@@ -42,7 +42,8 @@ const survivorData = {
         }
       ],
       "AllNames": [
-        "zacha"
+        "zacha",
+        "zach"
       ]
     },
     {
@@ -199,9 +200,9 @@ const survivorData = {
     },
     {
       "Name": "8",
-      "Eliminated": true,
-      "WeekEliminated": 0,
-      "EliminationReason": "No Pick",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2022-09-17T13:13:13",
@@ -242,9 +243,9 @@ const survivorData = {
     },
     {
       "Name": "Dan",
-      "Eliminated": true,
-      "WeekEliminated": 0,
-      "EliminationReason": "No Pick",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2022-09-17T13:19:35",
@@ -285,9 +286,9 @@ const survivorData = {
     },
     {
       "Name": "Jeff",
-      "Eliminated": true,
-      "WeekEliminated": 0,
-      "EliminationReason": "No Pick",
+      "Eliminated": false,
+      "WeekEliminated": null,
+      "EliminationReason": null,
       "Picks": [
         {
           "PickDateTime": "2022-09-17T13:36:16",
