@@ -259,14 +259,6 @@ const survivorData = {
           "Team": "Ohio State",
           "Correct": true,
           "SelectionStatus": "Beat Iowa 54-10"
-        },
-        {
-          "PickDateTime": "2022-10-21T19:49:57",
-          "Name": "8",
-          "Week": 8,
-          "Team": "Ohio State",
-          "Correct": true,
-          "SelectionStatus": "Beat Iowa 54-10"
         }
       ],
       "AllNames": [
@@ -326,14 +318,6 @@ const survivorData = {
           "Team": "Maryland",
           "Correct": true,
           "SelectionStatus": "Beat Northwestern 31-24"
-        },
-        {
-          "PickDateTime": "2022-10-22T13:03:53",
-          "Name": "Dan",
-          "Week": 8,
-          "Team": "Maryland",
-          "Correct": true,
-          "SelectionStatus": "Beat Northwestern 31-24"
         }
       ],
       "AllNames": [
@@ -385,14 +369,6 @@ const survivorData = {
           "Team": "Maryland",
           "Correct": true,
           "SelectionStatus": "Beat Indiana 38-33"
-        },
-        {
-          "PickDateTime": "2022-10-20T21:59:59",
-          "Name": "Jeff",
-          "Week": 8,
-          "Team": "Ohio State",
-          "Correct": true,
-          "SelectionStatus": "Beat Iowa 54-10"
         },
         {
           "PickDateTime": "2022-10-20T21:59:59",
