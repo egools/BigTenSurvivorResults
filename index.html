@@ -34,6 +34,9 @@
           </div>
         </div>
       </div>
+      <div v-if="HasWinner" class="winner-container">
+        <div>Congrats to our winner, {{WinnerName}}! You were the least wrong.</div>
+      </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
     <script src="survivor-data.js?v=2.0"></script>
